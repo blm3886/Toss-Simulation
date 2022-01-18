@@ -5,8 +5,8 @@ The Results are displayed in the form of bar graph.
 User can input the number of tosses the number of tosses.
 The bar graph resizes based on the size of the frame.
 
+![Capture2](https://github.com/blm3886/Toss-Simulation/blob/main/Capture2.JPG)
+<br><br>
 ![Capture1](https://github.com/blm3886/Toss-Simulation/blob/main/Capture1.JPG)
 <br><br>
-![Capture1](https://github.com/blm3886/Toss-Simulation/blob/main/Capture2.JPG)
-<br><br>
-![Capture1]https://github.com/blm3886/Toss-Simulation/blob/main/Capture3.JPG
+![Capture3](https://github.com/blm3886/Toss-Simulation/blob/main/Capture3.JPG)
